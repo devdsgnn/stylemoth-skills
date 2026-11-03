@@ -1,0 +1,13 @@
+{
+  "name": "stylemoth",
+  "owner": {
+    "name": "DevDsgn"
+  },
+  "plugins": [
+    {
+      "name": "stylemoth",
+      "source": "./",
+      "description": "One reference-led design skill."
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stylemoth",
+  "version": "1.1.0",
+  "description": "Reference-led website design from StyleMoth MCP or local design systems.",
+  "author": {
+    "name": "DevDsgn"
+  },
+  "homepage": "https://stylemoth.com/skills",
+  "repository": "https://github.com/devdsgnn/stylemoth-skills",
+  "skills": "./skills/"
+}

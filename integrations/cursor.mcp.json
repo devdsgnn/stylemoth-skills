@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "stylemoth": {
+      "url": "https://stylemoth.com/api/mcp",
+      "headers": {
+        "Authorization": "Bearer ${env:STYLEMOTH_API_KEY}"
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+# Merge this table into your Codex config only when enabling StyleMoth MCP.
+[mcp_servers.stylemoth]
+url = "https://stylemoth.com/api/mcp"
+bearer_token_env_var = "STYLEMOTH_API_KEY"
