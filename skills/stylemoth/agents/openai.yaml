@@ -1,0 +1,4 @@
+interface:
+  display_name: "StyleMoth"
+  short_description: "Research, build, and refine interfaces with design systems"
+  default_prompt: "Use $stylemoth to design or refine my project, preserve working features, and check desktop and mobile layouts."
