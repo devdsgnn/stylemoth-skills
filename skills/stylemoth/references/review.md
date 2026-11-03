@@ -3,6 +3,10 @@
 Use for substantial UI changes. These are comparison questions, not a requirement
 for lengthy reports or unrelated tests.
 
+For a selected system, use [System compliance](system-compliance.md). Compare
+expected role values with computed styles and effective spacing; compare feature
+compositions and content density with the selected source, not unrelated examples.
+
 ## Follow the main task
 
 Walk from entry to completion. Does each changed control do what its label promises?

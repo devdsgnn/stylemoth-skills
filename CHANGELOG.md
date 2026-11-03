@@ -1,3 +1,10 @@
+# 1.1.1
+
+- Require usage-role mapping, responsive exceptions and computed-style checks.
+- Keep feature-card anatomy and content density tied to the selected system.
+- Bound outside research and explicit overrides to their intended scope.
+- Add regression evaluation cases; full agent behavior is not yet measured.
+
 # Changelog
 
 ## 1.1.0

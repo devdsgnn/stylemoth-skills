@@ -2,7 +2,7 @@
 name: stylemoth
 description: Design, build, and refine websites and product interfaces. Use for StyleMoth design systems, MCP or exported files, visual research, original interfaces, and UI reviews. Preserves working behavior and applies coherent colors, typography, layout, components, and design rules.
 metadata:
-  version: "1.1.0"
+  version: "1.1.1"
 ---
 
 # StyleMoth
@@ -31,6 +31,14 @@ brief is enough to start: infer sensible section content, compose real visuals,
 and refine each section. Ask only for genuinely blocking choices. Do not expand
 a hero-only request into an entire site. Follow the user's requested visual
 fidelity instead of imposing a generic template.
+
+## Selected-system rule
+
+For any selected-system implementation or refinement, read
+[System compliance](references/system-compliance.md). Map explicit usage rules to
+components before styling, keep outside research within missing or user-overridden
+patterns, and verify the actual render against that map. This takes precedence
+over general creative guidance; a valid token value used for the wrong role fails.
 
 ## Choose the workflow
 

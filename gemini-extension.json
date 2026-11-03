@@ -1,6 +1,6 @@
 {
   "name": "stylemoth",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Reference-led design workflow from MCP or local bundles.",
   "contextFileName": "GEMINI.md"
 }

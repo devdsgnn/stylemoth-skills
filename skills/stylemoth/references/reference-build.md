@@ -110,3 +110,10 @@ accent lighting and fine icon language in the same roles, with the task assistan
 own UI and content. Build a real task list/demo state and responsive composition.
 Do not apply glow everywhere, copy Raycast testimonials, or add a full pricing page.
 A minimal source follows exactly the same process with no invented glow.
+
+## Required system check
+
+Apply [System compliance](system-compliance.md) before composing and at each
+section review. Extract usage descriptions and responsive exceptions into a rule
+map; inspect relevant source feature-card compositions. Fix measured role and
+content-density mismatches before repeating components or declaring completion.

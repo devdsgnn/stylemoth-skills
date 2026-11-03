@@ -50,7 +50,7 @@ protected library access follows your plan. Exported files can be used without M
 Version 1.0.0. Combines the independently written StyleMoth Design and Studio workflows.
 Source notes are included in references/. No third-party skill files or website assets are bundled.
 
-## Reference-led workflow (v1.1.0)
+## Reference-led workflow (v1.1.1)
 
 Use `build`, `section`, `restyle`, `research`, `refine`, or `review` after invoking
 StyleMoth. These are modes inside one skill. The main workflow reads your bundle,
@@ -84,3 +84,9 @@ behavioral cases. Keep one skill and no empty integration folders. Update VERSIO
 SKILL metadata and all client manifest versions together. Test generated ZIP
 contents before release. Behavioral cases need actual agent/browser runs; structural
 checks do not establish design quality or universal client compatibility.
+
+Selected-system builds now require a usage-role map and rendered compliance review.
+Spacing descriptions and responsive exceptions are applied by role; feature-card
+composition and content density stay tied to the selected source. Outside research
+is limited to missing patterns or explicit user overrides. See
+[system compliance](skills/stylemoth/references/system-compliance.md).
