@@ -2,7 +2,7 @@
 name: stylemoth
 description: Design, build, and refine websites and product interfaces. Use for StyleMoth design systems, MCP or exported files, visual research, original interfaces, and UI reviews. Preserves working behavior and applies coherent colors, typography, layout, components, and design rules.
 metadata:
-  version: "1.1.1"
+  version: "1.1.2"
 ---
 
 # StyleMoth
@@ -39,6 +39,13 @@ For any selected-system implementation or refinement, read
 components before styling, keep outside research within missing or user-overridden
 patterns, and verify the actual render against that map. This takes precedence
 over general creative guidance; a valid token value used for the wrong role fails.
+
+## Icon research
+
+For MCP, downloaded bundles, screenshots, and live references, automatically follow
+[Icon research and implementation](references/icons.md) during research and review.
+Use the verified, reuse-permitted source library first, then Lucide, then Heroicons.
+Use library components or official assets rather than recreating interface icons.
 
 ## Choose the workflow
 

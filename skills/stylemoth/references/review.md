@@ -54,3 +54,6 @@ dumping it into the reply. Describe observed improvements such as readable label
 or an aligned action, not unmeasured conversion gains or exhaustive accessibility.
 Finish when the authorized scope is complete; do not reopen the design direction
 during handoff.
+
+For icon provenance, library selection, implementation, and validation, follow
+[Icon research and implementation](icons.md).

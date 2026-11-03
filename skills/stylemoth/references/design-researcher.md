@@ -81,3 +81,6 @@ Give the implementing workflow the chosen source/system, a few concrete decision
 the preserved constraints, and unresolved gaps. Keep source links available. The
 user usually needs a short recommendation rather than every search result. Do
 not turn a straightforward authorized task into a mandatory research approval.
+
+For icon provenance, library selection, implementation, and validation, follow
+[Icon research and implementation](icons.md).

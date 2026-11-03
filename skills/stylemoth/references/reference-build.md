@@ -117,3 +117,6 @@ Apply [System compliance](system-compliance.md) before composing and at each
 section review. Extract usage descriptions and responsive exceptions into a rule
 map; inspect relevant source feature-card compositions. Fix measured role and
 content-density mismatches before repeating components or declaring completion.
+
+For icon provenance, library selection, implementation, and validation, follow
+[Icon research and implementation](icons.md).

@@ -84,3 +84,6 @@ reduced-motion behavior. Repeating tracks must cover the viewport throughout a
 loop, without a blank tail. Avoid perpetual motion around body text and controls.
 
 Polish is not a mandatory list of effects. Keep the primary task and content clear.
+
+For icon provenance, library selection, implementation, and validation, follow
+[Icon research and implementation](icons.md).

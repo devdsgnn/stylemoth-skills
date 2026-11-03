@@ -7,6 +7,11 @@
 
 # Changelog
 
+## 1.1.2
+
+Automatic source icon-library research and license verification, with Lucide then
+Heroicons fallbacks, consistent library assets, and icon provenance review.
+
 ## 1.1.0
 
 Reference-led build/section/restyle workflow, explicit research/refine/review
